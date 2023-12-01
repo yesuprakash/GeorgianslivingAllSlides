@@ -54,4 +54,4 @@ jobs:
           app-name: 'GeorgiansLiving'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EF13C6E99C714128AA8FB1BD68E2F5FF }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_625BA3DB9BAF4D10A97AAD9B125F6399 }}
